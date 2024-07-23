@@ -1,0 +1,63 @@
+
+
+body{
+    background-image: linear-gradient( rgb(35, 129, 167),rgb(21, 72, 92));
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+    color: rgb(255, 123, 0);
+}
+
+/* resizing the password boxs */
+#password{
+    text-align: center;
+    height: 25px;
+    width: 500px;
+}
+
+button{
+    height: 31px;
+
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+
+.safe{
+    margin: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+
+.sad{
+    width: 1200px;
+    margin: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    text-align: center;
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+}
+
+.idk{
+    margin-bottom: 90px;
+}
+
+.cow{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.protect{
+    margin-bottom: 60px;
+}
